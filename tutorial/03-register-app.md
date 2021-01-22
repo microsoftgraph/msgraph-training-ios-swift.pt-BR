@@ -6,7 +6,7 @@ Neste exercício, você criará um novo aplicativo nativo do Azure AD usando o c
 
 1. Selecione **Azure Active Directory** na navegação esquerda e selecione **Registros de aplicativos** em **Gerenciar**.
 
-    ![Uma captura de tela dos registros de aplicativo ](./images/aad-portal-app-registrations.png)
+    ![Uma captura de tela dos registros do aplicativo ](images/aad-portal-app-registrations.png)
 
 1. Selecione **Novo registro**. Na página **Registrar um aplicativo**, defina os valores da seguinte forma.
 
@@ -14,12 +14,12 @@ Neste exercício, você criará um novo aplicativo nativo do Azure AD usando o c
     - Defina **Tipos de conta com suporte** para **Contas em qualquer diretório organizacional e contas pessoais da Microsoft**.
     - Deixe o **URI de Redirecionamento** vazio.
 
-    ![Uma captura de tela da página registrar um aplicativo](./images/aad-register-an-app.png)
+    ![Uma captura de tela da página Registrar um aplicativo](images/aad-register-an-app.png)
 
-1. Selecione **registrar**. Na página **tutorial do gráfico Swift do IOS** , copie o valor da **ID do aplicativo (cliente)** e salve-o, você precisará dele na próxima etapa.
+1. Selecione **Registrar**. Na página do tutorial do **iOS Swift Graph,** copie o valor da ID do aplicativo **(cliente)** e salve-o, você precisará dele na próxima etapa.
 
-    ![Uma captura de tela da ID do aplicativo do novo registro de aplicativo](./images/aad-application-id.png)
+    ![Uma captura de tela da ID do aplicativo do novo registro de aplicativo](images/aad-application-id.png)
 
-1. Selecione **Autenticação** em **Gerenciar**. Selecione **Adicionar uma plataforma**e **Ios/MacOS**.
+1. Selecione **Autenticação** em **Gerenciar**. Selecione **Adicionar uma plataforma** e, em **seguida, iOS/macOS.**
 
-1. Insira a ID de pacote do aplicativo e selecione **Configurar**e, em seguida, selecione **concluído**.
+1. Insira a ID do pacote do aplicativo e selecione **Configurar,** em seguida, selecione **Done**.
